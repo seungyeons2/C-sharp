@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Program.cs" />
+    <Compile Remove="[도전코딩][01] 자동차 추상화하기.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="[도전코딩][01] 자동차 추상화하기.cs" />
+  </ItemGroup>
 </Project>

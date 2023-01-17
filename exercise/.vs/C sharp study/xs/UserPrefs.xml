@@ -1,4 +1,24 @@
 ﻿<Properties StartupConfiguration="{4BE05104-3218-4C1A-9B87-FD023727A835}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.exercise FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="foreach문.cs">
+    <Files>
+      <File FileName="foreach문.cs" Line="16" Column="1" />
+      <File FileName="[도전코딩][01] 자동차 추상화하기.cs" Line="6" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C sharp study" expanded="True">
+            <Node name="exercise" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.exercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
