@@ -1,0 +1,15 @@
+/Users/seungyeon/Desktop/C-sharp/exercise/bin/Debug/net7.0/exercise
+/Users/seungyeon/Desktop/C-sharp/exercise/bin/Debug/net7.0/exercise.deps.json
+/Users/seungyeon/Desktop/C-sharp/exercise/bin/Debug/net7.0/exercise.runtimeconfig.json
+/Users/seungyeon/Desktop/C-sharp/exercise/bin/Debug/net7.0/exercise.dll
+/Users/seungyeon/Desktop/C-sharp/exercise/bin/Debug/net7.0/exercise.pdb
+/Users/seungyeon/Desktop/C-sharp/exercise/obj/Debug/net7.0/exercise.csproj.AssemblyReference.cache
+/Users/seungyeon/Desktop/C-sharp/exercise/obj/Debug/net7.0/exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seungyeon/Desktop/C-sharp/exercise/obj/Debug/net7.0/exercise.AssemblyInfoInputs.cache
+/Users/seungyeon/Desktop/C-sharp/exercise/obj/Debug/net7.0/exercise.AssemblyInfo.cs
+/Users/seungyeon/Desktop/C-sharp/exercise/obj/Debug/net7.0/exercise.csproj.CoreCompileInputs.cache
+/Users/seungyeon/Desktop/C-sharp/exercise/obj/Debug/net7.0/exercise.dll
+/Users/seungyeon/Desktop/C-sharp/exercise/obj/Debug/net7.0/refint/exercise.dll
+/Users/seungyeon/Desktop/C-sharp/exercise/obj/Debug/net7.0/exercise.pdb
+/Users/seungyeon/Desktop/C-sharp/exercise/obj/Debug/net7.0/exercise.genruntimeconfig.cache
+/Users/seungyeon/Desktop/C-sharp/exercise/obj/Debug/net7.0/ref/exercise.dll
